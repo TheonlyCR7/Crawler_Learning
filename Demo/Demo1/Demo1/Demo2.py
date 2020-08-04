@@ -40,7 +40,3 @@ if __name__ == '__main__':
     for item in parse_result.items:
            print(item)
 
-
-
-
-
